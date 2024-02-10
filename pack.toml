@@ -1,0 +1,13 @@
+name = "Minecraft Homecoming"
+author = "minhtyfresh"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5287200fe99c90d3e1156bc56d089e3a792eafb57f7ab9c72478011aeafc2ccc"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
