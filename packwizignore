@@ -3,3 +3,7 @@
 
 # Exclude README
 /README.md
+
+# Ignore git files
+gitignore
+gitattributes

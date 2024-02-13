@@ -9,5 +9,20 @@ file = "gitignore"
 hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "d3a861b09da982bbecbd4de30df89f802acefe1f621fa4e806c054e9a5426141"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "d1aeaf9c0fd566a0f59567e548203dc8e800eab44e3c0e60f533dce33953998e"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
+metafile = true
+
+[[files]]
 file = "packwizignore"
 hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
