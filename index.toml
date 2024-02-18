@@ -29,6 +29,16 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "f7db01d61d3fd350bbd15da1d1ad91c05a7d747b8311005c02595f8d34470677"
 metafile = true
@@ -41,4 +51,9 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
 metafile = true
