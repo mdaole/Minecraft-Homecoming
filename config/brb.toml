@@ -1,14 +1,14 @@
 enablePinning = true
-keepCentered = false
+keepCentered = true
 settingsButton = true
 enableBook = true
 
 [newRecipes]
-unlockAll = true
-enableBounce = false
+unlockAll = false
+enableBounce = true
 
 [instantCraft]
-showButton = true
+showButton = false
 enabled = false
 
 [alternativeRecipes]
