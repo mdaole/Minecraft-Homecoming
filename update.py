@@ -17,7 +17,7 @@ def main():
     Popen(["packwiz", "serve"])
 
     chdir(path.join("..", ".minecraft"))
-    system("java -jar packwiz-installer-bootstrap.jar ../packwiz/pack.toml")
+    system("java -jar packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml")
 
     for i in process_iter():
         if "packwiz" in i.name(): i.kill()
