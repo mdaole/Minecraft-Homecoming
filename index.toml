@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fml.toml"
+hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
+file = "generate.py"
+hash = "db33857d034c2a7640be144537b7969582d3078c8115b1f85b5f486cfd5146a5"
+
+[[files]]
 file = "gitattributes"
 hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
 
@@ -10,19 +22,23 @@ hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "d3a861b09da982bbecbd4de30df89f802acefe1f621fa4e806c054e9a5426141"
+hash = "b428460ac778e3929a2b42f86c2fcee2439d13650b7bb102c226ad61ce8d6211"
 metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "d1aeaf9c0fd566a0f59567e548203dc8e800eab44e3c0e60f533dce33953998e"
+hash = "e5ffd7e1e951ec96bab91f773713dc3532e7017897856d66645ff7098d896c7d"
 metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
+hash = "c4077c0af9805f55e7930ebea4d6dcd0bd0d503dace1e992aa67eb9191a4db03"
 metafile = true
 
 [[files]]
 file = "packwizignore"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
+hash = "9fc87dadd15dc0fa2feb2ebe5e97c6ee59f2c12ecdc524692f263efca56b0455"
+
+[[files]]
+file = "update.py"
+hash = "a7a65d5fde04d5852d399b687a055483db66232feeedb7c77aeb0f893fada720"
