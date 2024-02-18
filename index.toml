@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "866830cb6b02d2bb6ff523f38e27491f11b542556c5d5d9a9543673b97849b76"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
+
+[[files]]
 file = "config/fml.toml"
 hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
 
@@ -9,16 +21,24 @@ file = "config/forge-client.toml"
 hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "be4747ae45241c9bf90031ea61b88188c776b8547d9041feba62d18c4b218e3b"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b428460ac778e3929a2b42f86c2fcee2439d13650b7bb102c226ad61ce8d6211"
+hash = "f7db01d61d3fd350bbd15da1d1ad91c05a7d747b8311005c02595f8d34470677"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "a5c9c4409681fb848186182fb09aabd4d2cfcbd6fe4c46c219e4b2020b162b96"
+file = "mods/embeddiumplus.pw.toml"
+hash = "4ded396bc27dba88918781fe12d229f4b772ecae377f706b2451751bf66c145c"
 metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "c4077c0af9805f55e7930ebea4d6dcd0bd0d503dace1e992aa67eb9191a4db03"
+hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
 metafile = true
