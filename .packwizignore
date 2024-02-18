@@ -7,3 +7,7 @@
 # Ignore git files
 gitignore
 gitattributes
+
+# Ignore dev files
+update.py
+generate.py
