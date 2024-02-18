@@ -122,7 +122,7 @@
 			#Configure Darkness Mode
 			#Each config changes what is considered 'true darkness'
 			#Allowed Values: TOTAL_DARKNESS, PITCH_BLACK, DARK, DIM, OFF
-			mode = "OFF"
+			mode = "PITCH_BLACK"
 			#Toggles if moon phases affects darkness in the overworld
 			affectedByMoonPhase = true
 			#List of all dimensions to use True Darkness
@@ -130,7 +130,7 @@
 			dimensionWhitelist = []
 			#Configure max moon brightness level with darkness
 			#Range: 0.0 ~ 1.0
-			fullMoonBright = 0.25
+			fullMoonBright = 0.6
 			#Configure fog brightness on nether when darkness is enabled
 			#Range: 0.0 ~ 1.0
 			netherFogBright = 0.5
