@@ -99,7 +99,7 @@
 			endFogBright = 0.5
 			#Configure min moon brightness level with darkness
 			#Range: 0.0 ~ 1.0
-			newMoonBright = 0.35
+			newMoonBright = 0.3
 			#Toggle Darkness on End dimension
 			enableOnEnd = false
 			#Toggle Darkness default mode for modded dimensions
@@ -109,13 +109,13 @@
 			#Allowed Values: TOTAL_DARKNESS, PITCH_BLACK, DARK, DIM, OFF
 			mode = "PITCH_BLACK"
 			#Toggles if moon phases affects darkness in the overworld
-			affectedByMoonPhase = false
+			affectedByMoonPhase = true
 			#List of all dimensions to use True Darkness
 			#This option overrides 'valueByDefault' state
 			dimensionWhitelist = []
 			#Configure max moon brightness level with darkness
 			#Range: 0.0 ~ 1.0
-			fullMoonBright = 0.8
+			fullMoonBright = 0.85
 			#Configure fog brightness on nether when darkness is enabled
 			#Range: 0.0 ~ 1.0
 			netherFogBright = 0.5
