@@ -1,0 +1,13 @@
+name = "Tilt Break (Old Damage Tilting)"
+filename = "TiltBreak-1.20.1-1.4FE.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AVQnOXtr/versions/aFZN8Xp2/TiltBreak-1.20.1-1.4FE.jar"
+hash-format = "sha512"
+hash = "ac8dd535d0f6bb30d42b51fd47e64b05773a0d462f2ead8142f64d336d684fb4cebdcd929c8caccb2b90d1d2e1fc19658adae00665393e2f366b06c33bc921d4"
+
+[update]
+[update.modrinth]
+mod-id = "AVQnOXtr"
+version = "aFZN8Xp2"
