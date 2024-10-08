@@ -5,4 +5,4 @@
 *.mrpack
 
 # Exclude Indigo-Renderer Changes
-indigo-renderer.properties
+config/fabric/indigo-renderer.properties
