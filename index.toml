@@ -126,7 +126,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "1e56f97af76787fa26fe1291d33a1a8f9516411cb400994591eb309f9f8532a1"
+hash = "ba99720cab47b4f49a6eead7d64b80ba7b537aea0322f3910177267093817b96"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -189,6 +189,10 @@ file = "config/modernfix-mixins.properties"
 hash = "bc53d2c8846366ff58d2f93d0a6ba02741aa1c106bdab140f0069a65a12b1cb4"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "bec5b98fd9f2ca1bd3b17a8e5e65916759f480e39a79d80a5af4ed30373261ad"
+
+[[files]]
 file = "config/nvidium-config.json"
 hash = "5e5546c675aa584681a8ab6d64eecd669cbbe1dc1b79946a48b3b6673073530f"
 
@@ -221,6 +225,10 @@ file = "config/saturn-optimizations.toml"
 hash = "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "9b17fbb4cbee44e19cb9050a007e8ae965918e62f6de63f39f8613f12de00233"
+
+[[files]]
 file = "config/snowundertrees-common.toml"
 hash = "c554d592cbfb283aefeee5de67b89d84c51fdd305712d329b153beb7c9a7068a"
 
@@ -242,11 +250,11 @@ hash = "74d2c685cc86d9bd23809ccf7e4baa7b0ebe3c44b1a1f1bc36c35a41afbcabe8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6cecba743b2d852c63b5bf95ae02f2f876707c209e550f178db270a2c9264dfd"
+hash = "ec8a64e2221c56df898a3fc49ae83492822b58ddab6adc1d3a2ff4bbc55714af"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ada95d3cd829bec0ccc983b7eaac22c9dfcd1a51bd48ca04b3f48a1e616ace17"
+hash = "e290ad2425c499c1d898a792fd3403382486cee435447c777de12949af1e05c1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1092,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "30873d82b98936cf0f0d0b90a4c2c5b14e94d20c2d3ca3ca96fb10b529991749"
+hash = "ec1a3f3747509d5b739d777c9ff4b93b910db1b39130035350ecbb060ae8a3c4"
 metafile = true
 
 [[files]]
@@ -1168,6 +1176,11 @@ metafile = true
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "a4fced29c81b31d9f0888b61b1c3c53409c9f35dcb0c6242f2e0aebd8e15ba98"
 metafile = true
 
 [[files]]
