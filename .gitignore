@@ -6,3 +6,4 @@
 
 # Exclude Indigo-Renderer Changes
 config/fabric/indigo-renderer.properties
+config/sound_physics_remastered/*.properties
