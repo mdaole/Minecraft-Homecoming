@@ -177,10 +177,6 @@ file = "config/fsb-interop.json"
 hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
 
 [[files]]
-file = "config/horsestatsmod-client.toml"
-hash = "68d2cf4eea18d221d9b58015ae6caa0909fbb2c3b9862060789c2d8a74dde095"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "7f85626943cdc95b9c1ff9b2fcdf5891f1607e99ab61dddbce60703f947ada8f"
 
