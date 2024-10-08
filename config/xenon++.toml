@@ -99,7 +99,7 @@
 			endFogBright = 0.5
 			#Configure min moon brightness level with darkness
 			#Range: 0.0 ~ 1.0
-			newMoonBright = 0.2
+			newMoonBright = 0.35
 			#Toggle Darkness on End dimension
 			enableOnEnd = false
 			#Toggle Darkness default mode for modded dimensions
@@ -109,7 +109,7 @@
 			#Allowed Values: TOTAL_DARKNESS, PITCH_BLACK, DARK, DIM, OFF
 			mode = "PITCH_BLACK"
 			#Toggles if moon phases affects darkness in the overworld
-			affectedByMoonPhase = true
+			affectedByMoonPhase = false
 			#List of all dimensions to use True Darkness
 			#This option overrides 'valueByDefault' state
 			dimensionWhitelist = []
