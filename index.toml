@@ -69,14 +69,6 @@ file = "config/defaultoptions/options.txt"
 hash = "94821d5b58e1e93a8f920e4f16c0c62053fe6af44f1096f6484af5361ab2b8dd"
 
 [[files]]
-file = "config/distinguishedpotions-client.toml"
-hash = "efc2372d7b90a2932268bf0fd7e40a3aad9da4c5fb50fd76fe6e6ed8e296d03b"
-
-[[files]]
-file = "config/distinguishedpotions-common.toml"
-hash = "abab5aa34f069e64f694b8d7f4b00dd81a2bb0452201751410cb594a5e50f921"
-
-[[files]]
 file = "config/dynamic_fps.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -645,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "32968a60aa0e31fc2a0101aea23b7b257dcf530754da103654e5e73b12c4564d"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "7c687fd7ea4ec0349cd9eaef886f70e859a7f46b56811e1ada6df56cc6857726"
 metafile = true
 
 [[files]]
