@@ -133,10 +133,6 @@ file = "config/fabric_loader_dependencies.json"
 hash = "7d43898f3b714c195cfaf286285585069fa74fa182e44a129961eab0108b42da"
 
 [[files]]
-file = "config/fallingleaves-client.toml"
-hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
-
-[[files]]
 file = "config/fastsuite.cfg"
 hash = "6aa1b4c08dbcae1f893afd75d20ef640fcc5adde042b650b4ae1c2c8637d1555"
 
@@ -990,11 +986,6 @@ hash = "261283f7a28a695ecc876ee7d3fe82e3f3598b8ec075624f8588f7800a31bf84"
 metafile = true
 
 [[files]]
-file = "mods/falling-leaves-forge.pw.toml"
-hash = "e932f7abbc799791d19e9bb6dba0dacf5ed75ef165911bf375cf584141c657d8"
-metafile = true
-
-[[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
 hash = "96b4f076531d93845801037766543ef06c7c07cb631f7f24db06c2a3296bfaa0"
 metafile = true
@@ -1097,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "30873d82b98936cf0f0d0b90a4c2c5b14e94d20c2d3ca3ca96fb10b529991749"
 metafile = true
 
 [[files]]
