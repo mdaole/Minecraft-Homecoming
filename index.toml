@@ -150,7 +150,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "cf032fbebd1180955561544584101b9f96a59d6edc1a5fdb3473608efc88c539"
+hash = "d4da69963a05ebdc06858e3ef8c1ac056111c7a3d65a51bc8fb0c70be3ad79ca"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -175,6 +175,10 @@ hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 [[files]]
 file = "config/fsb-interop.json"
 hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
+
+[[files]]
+file = "config/gml-script-mods.toml"
+hash = "dc9b0f9c9c29949bcb91cebb2bcdc111a7d99bee1d2b2ea168f2edbc7b9a1ba6"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -253,6 +257,10 @@ file = "config/recipeessentials.json"
 hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
 
 [[files]]
+file = "config/sapience-common.toml"
+hash = "1d73285e6c84ae976a104e0e5d42f47bf43ee113dfeaf184bab0d8e148fcd5b8"
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "9b17fbb4cbee44e19cb9050a007e8ae965918e62f6de63f39f8613f12de00233"
 
@@ -282,11 +290,11 @@ hash = "07f94905ffef9410ff80befeb1c4fe617db0b953593b937e939ef530d2049feb"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "7f59a1194116921a2261d4ddce08f108b6c1fb1f74480ab8fb7cead78e531299"
+hash = "7ae88c947d9a73a6eb4b82dfe154b4a935bd6a67caebfbccdfe751c65cdea293"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f723b03fd179d7637d525014dcefe920e0334d59af226b645715ed428223db42"
+hash = "0bdc149c539aa054b84269d5a78c1621e1b12f2ac407ee3324f1f9307d97ca36"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -877,6 +885,11 @@ file = "defaultconfigs/horsecombatcontrols-server.toml"
 hash = "61c5bcfdfb46273a7ff64451039bd8838737a1053650fd5bc322e183674068c0"
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "3b87f6113f1304c82ad4efedbf049c239548be6e642acd63d82020504f5b0953"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
 metafile = true
@@ -1027,6 +1040,11 @@ hash = "3b17a2980b74426f94633164b0c068f8afa025eabee0e0bd1a32c5965361c028"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation-forge.pw.toml"
+hash = "9085071da51ad9cf0865d7294c42a850389c34933845aeede842c43326a69307"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "6d5b51a81ccf1a172c9d15461f6405d32f55fbd1b27b8ab6b272fca9fd817508"
 metafile = true
@@ -1119,6 +1137,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "d1bc44dcc16a3b8124ec4841a690c93005bf82e9649fae1e352e2e315a393da5"
+metafile = true
+
+[[files]]
+file = "mods/gml.pw.toml"
+hash = "0ca939c3a2cac1cc9cc685fb73372a13c951c470766cae3dcc2ae5de181fcfc2"
 metafile = true
 
 [[files]]
@@ -1284,6 +1307,11 @@ metafile = true
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "6a30514da0ab75c8cf96a2b3be3f4a667d0496cea73bd4ca321b5de09bcc28af"
+metafile = true
+
+[[files]]
+file = "mods/sapience.pw.toml"
+hash = "862bb56ce19ee9de2e004c92156f47bcc4b0f2a5923e54d3fdd0a12433eff850"
 metafile = true
 
 [[files]]
