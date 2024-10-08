@@ -3,3 +3,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude Indigo-Renderer Changes
+indigo-renderer.properties
