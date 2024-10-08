@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/HorseBuff.toml"
+hash = "d239c46c41cd0842cbd35ccaadb24d40f3e57879520b5ff0e5e7c0e9ca208e58"
+
+[[files]]
 file = "config/animatica-client.toml"
 hash = "e388593c0b2672c03bc5cca51ef79e2b3d17029667934d4e98b8e7eee000b6b1"
 
@@ -23,6 +27,10 @@ hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 [[files]]
 file = "config/betteradvancements-client.toml"
 hash = "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be"
+
+[[files]]
+file = "config/betterburning-common.toml"
+hash = "c68667480d86c7280e0038302ca7823afbad641df16e64923ba5de179830b021"
 
 [[files]]
 file = "config/betterclouds-v1.json"
@@ -81,6 +89,14 @@ file = "config/dynamicview.json"
 hash = "305841828cd7218dd650fc2f48f01039cbfb8a914143cd79ffe11f96f31888fd"
 
 [[files]]
+file = "config/easyanvils-client.toml"
+hash = "daecf2f4b4f0f6682cfabf68dcb963535f7f4284c671141dd7c7115b0c609ba7"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+hash = "ebef7ec7d0d4a468aa593a89e00aef28aac10de45e017e88ac76b3b60ca9993b"
+
+[[files]]
 file = "config/effectdescriptions-client.toml"
 hash = "58bf61c4b4dcc84656fd2dbda1b659484e8079eeb53b82bd1bf073723a1312c6"
 
@@ -134,7 +150,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "8b0521bcf7204b8d3fe502257d40e74e02b63b302e4d8b9f5a0aad1fbbada9b4"
+hash = "cf032fbebd1180955561544584101b9f96a59d6edc1a5fdb3473608efc88c539"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -159,6 +175,10 @@ hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 [[files]]
 file = "config/fsb-interop.json"
 hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
+
+[[files]]
+file = "config/horsestatsmod-client.toml"
+hash = "68d2cf4eea18d221d9b58015ae6caa0909fbb2c3b9862060789c2d8a74dde095"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -266,11 +286,11 @@ hash = "07f94905ffef9410ff80befeb1c4fe617db0b953593b937e939ef530d2049feb"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a9850a86b5bd2683803aed603ffd35186bb4866b1e75b233ee2acc8f06e8538d"
+hash = "7f59a1194116921a2261d4ddce08f108b6c1fb1f74480ab8fb7cead78e531299"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "707b56da9a85c9a2603daef6fe6fae79aad194cdd9f74c9436f25011ab371633"
+hash = "f723b03fd179d7637d525014dcefe920e0334d59af226b645715ed428223db42"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -805,6 +825,10 @@ file = "config/treechop-common.toml"
 hash = "55dbc276ce763699b9886e6d0f3a6367047bb08ecc91a93f0feb0ee33e34f464"
 
 [[files]]
+file = "config/visual_workbench.json"
+hash = "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c"
+
+[[files]]
 file = "config/visuality/config.toml"
 hash = "4127fd1edf4e15159bb8365cb8816c5ae0b6108a02d34aa1d964f4e16b7e3275"
 
@@ -823,6 +847,10 @@ hash = "4fea5a33cd09a91423bf58e9404ded2edd4ba3faff2d41543c5366adab92a73a"
 [[files]]
 file = "config/visuality/particle_emitters/entity_hit.json"
 hash = "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
 file = "config/xenon++.toml"
@@ -868,6 +896,11 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f6da82f771d83d63282ad87dbf4c22f4aa75b5982adf015d3290701bb56d6414"
 metafile = true
@@ -880,6 +913,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
+metafile = true
+
+[[files]]
+file = "mods/better-burning.pw.toml"
+hash = "ba84272f830ac3e979698d1621e7ad93a734075ad2c48608dde686702f3f6ec5"
 metafile = true
 
 [[files]]
@@ -988,6 +1026,11 @@ hash = "ee61279ed1eb4fe2106afcc1dc7bdc36b11fe1d051e5e503d83328c9e9a699df"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "3b17a2980b74426f94633164b0c068f8afa025eabee0e0bd1a32c5965361c028"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "6d5b51a81ccf1a172c9d15461f6405d32f55fbd1b27b8ab6b272fca9fd817508"
 metafile = true
@@ -1058,6 +1101,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/fishing-real.pw.toml"
+hash = "1d3af39e9f6074779fe12301c143a79e651a349b634c72b19e2354aafcf8faf5"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
@@ -1080,6 +1128,11 @@ metafile = true
 [[files]]
 file = "mods/horse-combat-controls.pw.toml"
 hash = "63a340580a2ac9611359bdcbe3665e0a7f836ccc758391d3a2d598ac2cd206ab"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
 metafile = true
 
 [[files]]
@@ -1315,6 +1368,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
 metafile = true
 
 [[files]]

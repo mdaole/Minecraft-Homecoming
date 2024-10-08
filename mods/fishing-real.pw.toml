@@ -1,0 +1,13 @@
+name = "Fishing Real"
+filename = "Fishingreal-1.20.1-1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6544d06e47401f97613227b19623e3e00da20ecb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5273531
+project-id = 348834
