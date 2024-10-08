@@ -1362,6 +1362,16 @@ hash = "7c687fd7ea4ec0349cd9eaef886f70e859a7f46b56811e1ada6df56cc6857726"
 metafile = true
 
 [[files]]
+file = "mods/toast-control.pw.toml"
+hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "7600c7a6f0d1cda6e8bc80f75ce4a1326f4c392edd99350136776d90210d7865"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
