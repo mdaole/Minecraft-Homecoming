@@ -33,17 +33,6 @@
         "value": 1024
       }
     },
-    "reach-entity-attributes:reach": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "forge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -53,6 +42,17 @@
       "max": {
         "default": 64,
         "value": 64
+      }
+    },
+    "reach-entity-attributes:reach": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "minecraft:generic.movement_speed": {
@@ -209,22 +209,22 @@
         "value": 1000000
       }
     },
-    "reach-entity-attributes:attack_range": {
+    "forge:entity_reach": {
       "enabled": false,
       "min": {
-        "default": -1024,
-        "value": -1024
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 1024,
         "value": 1024
       }
     },
-    "forge:entity_reach": {
+    "reach-entity-attributes:attack_range": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 1024,

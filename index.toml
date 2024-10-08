@@ -10,7 +10,7 @@ hash = "adb3d5b04bb100ea01e1b6b81872cee4b439e15a0de133a66a41deaf0e3881a9"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "3b0fdc831def86c1ade4ae25359653d90d4bcf1378d735fda98848ec5e008411"
+hash = "73119d5c52cf776d55d91d1cfcf535af946d6f2e1ab0979ca3f28cb7ad01767a"
 
 [[files]]
 file = "config/badoptimizations.txt"
@@ -101,6 +101,18 @@ file = "config/embeddium-options.json"
 hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
 
 [[files]]
+file = "config/emi.css"
+hash = "10d0c5c763d0b55405b7d2d255e885fe37fef158b998839c4f9bb0cab5f553a2"
+
+[[files]]
+file = "config/emi_loot_config.toml"
+hash = "028ecb287c614cbb583d3b433d7737d63d417278818f03691751744e68dd41b2"
+
+[[files]]
+file = "config/emitrades.json5"
+hash = "1ed0ed3da45ed6bc11cdb624218f76f8e52b63818703b25e717bbbec615e6e92"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
 
@@ -122,7 +134,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d3219a96e9c80ee9a8b2cd48941f73acc29e466d8a47ce5c5aaa167a44eee63b"
+hash = "8b0521bcf7204b8d3fe502257d40e74e02b63b302e4d8b9f5a0aad1fbbada9b4"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -254,11 +266,11 @@ hash = "07f94905ffef9410ff80befeb1c4fe617db0b953593b937e939ef530d2049feb"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "cb74ea7edd7a914e437d3cee7b7c153ebfa108d529458c53a518c001b99fb6fe"
+hash = "a9850a86b5bd2683803aed603ffd35186bb4866b1e75b233ee2acc8f06e8538d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f827ff1023bf58f2735ce19fb456fbc652305ddd1c16dfa6f85c4142793bcb1b"
+hash = "707b56da9a85c9a2603daef6fe6fae79aad194cdd9f74c9436f25011ab371633"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -976,6 +988,31 @@ hash = "ee61279ed1eb4fe2106afcc1dc7bdc36b11fe1d051e5e503d83328c9e9a699df"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "6d5b51a81ccf1a172c9d15461f6405d32f55fbd1b27b8ab6b272fca9fd817508"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "a8e4a90179f2c556af989855ed6bfcc6e49cda091562cd8b261f77d0cbd2e84a"
+metafile = true
+
+[[files]]
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "27b1964e1583318e348f75fcb6a955c47f0d8650fcef62c6a07b7b1891bd2526"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "59c21f304f9c5fa731bbee0e5832f8307676773ed9e3e93cfb645a22b5cc19a9"
+metafile = true
+
+[[files]]
+file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
+hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b8cccf49530803953b340152f8114c2565020824f6a00c3777634e51185ca8d9"
 metafile = true
@@ -1036,6 +1073,11 @@ hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "d1bc44dcc16a3b8124ec4841a690c93005bf82e9649fae1e352e2e315a393da5"
+metafile = true
+
+[[files]]
 file = "mods/horse-combat-controls.pw.toml"
 hash = "63a340580a2ac9611359bdcbe3665e0a7f836ccc758391d3a2d598ac2cd206ab"
 metafile = true
@@ -1053,6 +1095,11 @@ metafile = true
 [[files]]
 file = "mods/insanelib.pw.toml"
 hash = "c6b19a1c3c87acf8843823e03c9b1abb8e86bcfbc452014bc8f6698ba0351359"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
