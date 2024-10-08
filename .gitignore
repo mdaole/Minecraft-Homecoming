@@ -5,5 +5,6 @@
 *.mrpack
 
 # Exclude Indigo-Renderer Changes
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
 config/fabric/indigo-renderer.properties
-config/sound_physics_remastered/
