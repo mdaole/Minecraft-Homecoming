@@ -5,6 +5,6 @@
 *.mrpack
 
 # Exclude Indigo-Renderer Changes
-config\sound_physics_remastered\
+packwiz\config\sound_physics_remastered\
 config\fabric\
 config\sound\
