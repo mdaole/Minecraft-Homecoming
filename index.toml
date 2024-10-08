@@ -21,12 +21,12 @@ file = "config/balm-common.toml"
 hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
-file = "config/better_cloud.toml"
-hash = "3d240ab2b364be545cf74a9cca2ac34eb94deafd78396164c2b4a132e5ebd164"
-
-[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be"
+
+[[files]]
+file = "config/betterclouds-v1.json"
+hash = "101fbe43a0f33b645895788c2016c83081df6c05b515bb533e9a5ac1f360348e"
 
 [[files]]
 file = "config/cameraoverhaul.json"
@@ -122,7 +122,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "ccf4ba57f91edcebda65c0b23fde7183816b01bb4f7bae31587bcd6e6ca5b5df"
+hash = "c63912f3f080fd55c817808e34a0f64429193baeeeb7a384acc2e3461084d1c1"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -217,10 +217,6 @@ file = "config/recipeessentials.json"
 hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
 
 [[files]]
-file = "config/saturn-optimizations.toml"
-hash = "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3"
-
-[[files]]
 file = "config/smoothswapping.json"
 hash = "9b17fbb4cbee44e19cb9050a007e8ae965918e62f6de63f39f8613f12de00233"
 
@@ -246,11 +242,11 @@ hash = "74d2c685cc86d9bd23809ccf7e4baa7b0ebe3c44b1a1f1bc36c35a41afbcabe8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "5494dd7eb928f3219943c5f836d1d9e214194f635d1f94c842c77e9ccba3eafc"
+hash = "2209a836f808c65a7c3dc3f51175a2b2c7fe8ddeb6b5e38cea0e50e5c6ce1421"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f1eb3e8c558025f59c8dc97f75ad2c8490f27bbfb3cf0e2c0b33354a2a16fc7f"
+hash = "52e7842f51c7cb1110b9cc0ddae7f67d32178e155adf3bf69cdbff8dcc9e5bf9"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -855,8 +851,8 @@ hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds-reforged.pw.toml"
-hash = "035eda87b8d3ba8417403ff03aa9da6ba9bdcfbdd309f9e3f6d6557d1936a0bc"
+file = "mods/better-clouds.pw.toml"
+hash = "54a88e01294647b196d27282ac6dba3b420fe8aff23417d6e3bcc78543330df6"
 metafile = true
 
 [[files]]
@@ -1232,6 +1228,11 @@ metafile = true
 [[files]]
 file = "mods/xenon.pw.toml"
 hash = "b91513c490e4a51622c7380aa84a08bc2cf8e45d714711910b653515db03cbae"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c32210e2e879228fcf4b9b7c459076db36b0ab0c06008919921676dd3208b882"
 metafile = true
 
 [[files]]
