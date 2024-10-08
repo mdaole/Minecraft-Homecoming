@@ -1,0 +1,13 @@
+name = "MoreMcmeta (Forge)"
+filename = "moremcmeta-1.20.1-4.4.7-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7049f7f160d9c1890281b7e71de83ebed3e31de8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5066777
+project-id = 442169
