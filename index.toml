@@ -6,7 +6,7 @@ hash = "e388593c0b2672c03bc5cca51ef79e2b3d17029667934d4e98b8e7eee000b6b1"
 
 [[files]]
 file = "config/astrocraft.json"
-hash = "c551b042991a402f7c9df076f1c9d36769f7d9b043abfdebd3880a225fed2ebb"
+hash = "adb3d5b04bb100ea01e1b6b81872cee4b439e15a0de133a66a41deaf0e3881a9"
 
 [[files]]
 file = "config/attributefix.json"
@@ -22,7 +22,7 @@ hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
 file = "config/better_cloud.toml"
-hash = "5e6670a1ecf1631c6c10839152304bb260bd05ac4737e411c66d85a16d9790ea"
+hash = "3d240ab2b364be545cf74a9cca2ac34eb94deafd78396164c2b4a132e5ebd164"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
@@ -126,7 +126,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "ee8d14904a97bba30d037a4d96c205382b15a9f895a41cfeff5818b3eb00c558"
+hash = "1e56f97af76787fa26fe1291d33a1a8f9516411cb400994591eb309f9f8532a1"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -246,11 +246,11 @@ hash = "74d2c685cc86d9bd23809ccf7e4baa7b0ebe3c44b1a1f1bc36c35a41afbcabe8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "115543daba27e52db3fa24c846c524497c098f7ec7352a8e9a0055602326d040"
+hash = "6cecba743b2d852c63b5bf95ae02f2f876707c209e550f178db270a2c9264dfd"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "98c7e2b03597188375d3f5c322c9c62e2ca840575af5f80fe549384e126b8c14"
+hash = "ada95d3cd829bec0ccc983b7eaac22c9dfcd1a51bd48ca04b3f48a1e616ace17"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -798,7 +798,7 @@ hash = "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead"
 
 [[files]]
 file = "config/xenon++.toml"
-hash = "0d5c2e3e22657db59bd4b54664a486d43250654b459ad0221d8b8778ea770eb5"
+hash = "4c138d236714382770b2774ce4eeb543772cd9833a7e68a977655afdce9373d3"
 
 [[files]]
 file = "config/xenon-fingerprint.json"
@@ -897,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
 metafile = true
 
 [[files]]
@@ -1182,11 +1187,6 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "1527a799903efdec06ee7974581c4ebffe6b96b0a3a1ae8a6663fa2e8c0d4195"
-metafile = true
-
-[[files]]
-file = "mods/spyglass-astronomy.pw.toml"
-hash = "bcac65caac00152a0acca380d4b2679e32c74c25919bb1edcb6d022acdbac103"
 metafile = true
 
 [[files]]
