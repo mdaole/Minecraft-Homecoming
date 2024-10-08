@@ -122,7 +122,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "c63912f3f080fd55c817808e34a0f64429193baeeeb7a384acc2e3461084d1c1"
+hash = "d3219a96e9c80ee9a8b2cd48941f73acc29e466d8a47ce5c5aaa167a44eee63b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -151,6 +151,10 @@ hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "7f85626943cdc95b9c1ff9b2fcdf5891f1607e99ab61dddbce60703f947ada8f"
+
+[[files]]
+file = "config/insanelib-common.toml"
+hash = "447692180b909af363777e2632e86181c6837f66a834bf322010885055cd77e1"
 
 [[files]]
 file = "config/leahs-immersive-thunder.toml"
@@ -197,6 +201,10 @@ file = "config/particular.json5"
 hash = "2ef28c4cf7a2e6d8316f665219b7c8e307931734e02ba1dc05a9ff6f35bb07a0"
 
 [[files]]
+file = "config/pathtodirt-common.toml"
+hash = "a571ccdf8eef228f837e00629fef1203393be107d76a98e228d94ccccf8375cb"
+
+[[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "242a0f58407ecc71ff5e2c6cd2910001c089ee4e6130454c377115e8a8f3c83a"
 
@@ -237,16 +245,20 @@ file = "config/sodiumdynamiclights-client.toml"
 hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
 
 [[files]]
+file = "config/soul_fire_d-common.toml"
+hash = "351ff1a1cf7d8fa61755c5004ff7000d5e5969785d69a266dce7e0ce5b8a7c7c"
+
+[[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "74d2c685cc86d9bd23809ccf7e4baa7b0ebe3c44b1a1f1bc36c35a41afbcabe8"
+hash = "07f94905ffef9410ff80befeb1c4fe617db0b953593b937e939ef530d2049feb"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "2209a836f808c65a7c3dc3f51175a2b2c7fe8ddeb6b5e38cea0e50e5c6ce1421"
+hash = "cb74ea7edd7a914e437d3cee7b7c153ebfa108d529458c53a518c001b99fb6fe"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "52e7842f51c7cb1110b9cc0ddae7f67d32178e155adf3bf69cdbff8dcc9e5bf9"
+hash = "f827ff1023bf58f2735ce19fb456fbc652305ddd1c16dfa6f85c4142793bcb1b"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -773,6 +785,14 @@ file = "config/tia.toml"
 hash = "35196a58b6eb2895bad8f9ab8ae8a328328eb3e6531e4d827b90ad420b4d7e10"
 
 [[files]]
+file = "config/treechop-client.toml"
+hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "55dbc276ce763699b9886e6d0f3a6367047bb08ecc91a93f0feb0ee33e34f464"
+
+[[files]]
 file = "config/visuality/config.toml"
 hash = "4127fd1edf4e15159bb8365cb8816c5ae0b6108a02d34aa1d964f4e16b7e3275"
 
@@ -888,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "ee520bf93f6ee23f24ccf53eb1afb8673944147d7c122bb520c28c4cbc59c931"
 metafile = true
 
 [[files]]
@@ -1026,6 +1051,11 @@ hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
 metafile = true
 
 [[files]]
+file = "mods/insanelib.pw.toml"
+hash = "c6b19a1c3c87acf8843823e03c9b1abb8e86bcfbc452014bc8f6698ba0351359"
+metafile = true
+
+[[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
@@ -1111,6 +1141,11 @@ hash = "63a2011c75cdaf07c0a537c1f5c0661b7e5e0471c81625273634f88fed05b9c4"
 metafile = true
 
 [[files]]
+file = "mods/path-to-dirt.pw.toml"
+hash = "b9591c123d0e93501180afee79554462d2caf02e75a4c6668daf40fb3139cd9d"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
 metafile = true
@@ -1176,6 +1211,11 @@ hash = "efdba06ad192e245a99488afd0a421eae7c0c869c30a4cab08966283eba4cec7"
 metafile = true
 
 [[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "2f7d48a153fa8e7c97506eec51ef981a613d1fa94691ef00bc73018afb14aaed"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f809175840d6a626965624c859928a6ac5f1d78f31b990ab3288f752352bb41a"
 metafile = true
@@ -1193,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "5188902bc719b959283aca7b087192b6694b77bcefa2c46d40f907010ff6fc29"
+metafile = true
+
+[[files]]
+file = "mods/steep-surface-fix.pw.toml"
+hash = "4916a1459af16672219a5e4aa20353ea251b64858c45ab3697f6fdcdb110616a"
 metafile = true
 
 [[files]]
@@ -1218,6 +1263,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "7c687fd7ea4ec0349cd9eaef886f70e859a7f46b56811e1ada6df56cc6857726"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
