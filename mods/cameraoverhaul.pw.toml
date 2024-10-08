@@ -1,0 +1,13 @@
+name = "CameraOverhaul"
+filename = "CameraOverhaul-1.4.1-fabric-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64484033377fe7fdd2e008e5c1e6b113eb0c25a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5441071
+project-id = 423602
