@@ -12,3 +12,8 @@ fabric = "0.92.2"
 - packwiz update [mod] updates a mod
 - packwiz update --all updates all the mods in the modpack
 
+atlauncher
+pre-launch command
+python3 "$INST_DIR/packwiz/update.py"
+post-exit command
+python3 "$INST_DIR/packwiz/generate.py"
