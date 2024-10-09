@@ -34,7 +34,7 @@ enable_particle_manager_optimization: true
 enable_toast_optimizations: true
 # Whether the result of getSkyAngle should be cached
 # for the entire frame during rendering
-enable_sky_angle_caching_in_worldrenderer: false
+enable_sky_angle_caching_in_worldrenderer: true
 # Whether entity renderers should be stored directly in EntityType
 # instead of a HashMap.
 # Disable to fix compatibility with Twilight Forest
