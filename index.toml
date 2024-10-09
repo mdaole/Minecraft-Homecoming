@@ -25,10 +25,6 @@ file = "config/balm-common.toml"
 hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
-file = "config/bedrockwaters.json"
-hash = "8ec9bb3e049b84283d7937220a63549d2d7711bb7d64f67c827c2db181063dd0"
-
-[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be"
 
@@ -154,7 +150,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "0fe3689b18e88a4fa0bbf5896e1ea1220e2164f8853207059eb9efebd8a42b38"
+hash = "b9b38e78273b823aa66d0e59c492517728f3710efeae8cbcb5393b415af414b2"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -167,6 +163,10 @@ hash = "6aa1b4c08dbcae1f893afd75d20ef640fcc5adde042b650b4ae1c2c8637d1555"
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
+
+[[files]]
+file = "config/firstperson.json"
+hash = "9f7dbec90d04ac669ca6a650599445e805d58b0e9e9cef293a0eed98e337f40d"
 
 [[files]]
 file = "config/fml.toml"
@@ -229,6 +229,10 @@ file = "config/modernfix-mixins.properties"
 hash = "bc53d2c8846366ff58d2f93d0a6ba02741aa1c106bdab140f0069a65a12b1cb4"
 
 [[files]]
+file = "config/nerb.yaml"
+hash = "dceda831a1a2585df3fb5f3baae348eb43a7179ced0609a8a47869dfb0243d71"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
@@ -238,7 +242,7 @@ hash = "5e5546c675aa584681a8ab6d64eecd669cbbe1dc1b79946a48b3b6673073530f"
 
 [[files]]
 file = "config/particular.json5"
-hash = "2ef28c4cf7a2e6d8316f665219b7c8e307931734e02ba1dc05a9ff6f35bb07a0"
+hash = "adc1a0d516023e790c06b6d19884d0fd5a06808f2390ec2f22e6ecebac9bbceb"
 
 [[files]]
 file = "config/pathtodirt-common.toml"
@@ -298,11 +302,11 @@ hash = "07f94905ffef9410ff80befeb1c4fe617db0b953593b937e939ef530d2049feb"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4c11bbddd48e3475aeeef68bc9b51d3c240fe9b3e1b29654ce7450725932e904"
+hash = "8723838026091cf5eb1673b3695284f1d058aa6cc9faa15057a8bd87115841bc"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "c447cb15a2c96f5c6d11f8cef99a86964776e732e7a817a64bcb47d10c9655cf"
+hash = "4c788244da0b307a07e9423875238b59faf952f01f30a0603acfead81a4300ee"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -822,7 +826,7 @@ hash = "34e14e20cd7ffa970d0bcdea197741519357ae7162f1f458d598da244ac19bea"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "548023798204b14017d291039b9bb6fb0f2157795d04b4c82e143c32832065f0"
+hash = "8f4fc307303071c275b2f4f521941f3771013a3c008a7467dca23412d51c114e"
 
 [[files]]
 file = "config/tia.toml"
@@ -1243,11 +1247,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "13c9b86d283b53a51fe64a5671a1b566ace52ba9f3b2432ff5a315dd4eb319d7"
-metafile = true
-
-[[files]]
-file = "mods/nekos-enchanted-books.pw.toml"
-hash = "719d6289c5c0a0ada27b685b5ec099a8d6a7c3dd41e167eb2bd28ac8d7ff4e40"
 metafile = true
 
 [[files]]
