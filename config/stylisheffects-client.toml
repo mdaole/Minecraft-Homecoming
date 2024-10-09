@@ -13,7 +13,7 @@
 		tooltip_duration = true
 		#Maximum amount of status effects rendered in a single row.
 		#Range: 1 ~ 255
-		max_columns = 5
+		max_columns = 2
 		#Space between individual effect widgets on y-axis.
 		#Range: > 0
 		widget_space_y = 1
@@ -41,7 +41,7 @@
 		allow_fallback = true
 		#Screen side to render status effects on.
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "LEFT"
+		screen_side = "RIGHT"
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
