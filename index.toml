@@ -25,6 +25,10 @@ file = "config/balm-common.toml"
 hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
+file = "config/bedrockwaters.json"
+hash = "8ec9bb3e049b84283d7937220a63549d2d7711bb7d64f67c827c2db181063dd0"
+
+[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be"
 
@@ -150,7 +154,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d4da69963a05ebdc06858e3ef8c1ac056111c7a3d65a51bc8fb0c70be3ad79ca"
+hash = "0fe3689b18e88a4fa0bbf5896e1ea1220e2164f8853207059eb9efebd8a42b38"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -203,6 +207,10 @@ hash = "3daa62159d430b28044aa44a40274a4e209ab756bfc7f038b3f02e0b1a8f2850"
 [[files]]
 file = "config/lithium.properties"
 hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
+
+[[files]]
+file = "config/logprot.json"
+hash = "5548e8fcf3ab17301d14c841ad51b76b872bcac6f698ab1706974334a493d87e"
 
 [[files]]
 file = "config/memorysettings.json"
@@ -290,11 +298,11 @@ hash = "07f94905ffef9410ff80befeb1c4fe617db0b953593b937e939ef530d2049feb"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "7ae88c947d9a73a6eb4b82dfe154b4a935bd6a67caebfbccdfe751c65cdea293"
+hash = "4c11bbddd48e3475aeeef68bc9b51d3c240fe9b3e1b29654ce7450725932e904"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "0bdc149c539aa054b84269d5a78c1621e1b12f2ac407ee3324f1f9307d97ca36"
+hash = "c447cb15a2c96f5c6d11f8cef99a86964776e732e7a817a64bcb47d10c9655cf"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -821,6 +829,14 @@ file = "config/tia.toml"
 hash = "35196a58b6eb2895bad8f9ab8ae8a328328eb3e6531e4d827b90ad420b4d7e10"
 
 [[files]]
+file = "config/toastcontrol-common.toml"
+hash = "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587"
+
+[[files]]
+file = "config/toolstats.json"
+hash = "27a7daab8a6e86487fe1d019ffdf0411db6ea7438d99d6aa4d727094473857f9"
+
+[[files]]
 file = "config/treechop-client.toml"
 hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
 
@@ -897,6 +913,11 @@ metafile = true
 [[files]]
 file = "mods/animaticareforged.pw.toml"
 hash = "a08e1cf18f891db1e6492ee6d4d7fd2cb49048b2060bde312b9c497f9eee6343"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
@@ -1190,6 +1211,11 @@ hash = "abd38b12752436258db8ffec7d4bee971812f75cdf5d8ce0b6d705948d12f859"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "a433c965c277b4f3b89606b2e87c56545bca0c42568e5ee0e75962628ddd939e"
 metafile = true
@@ -1240,8 +1266,18 @@ hash = "ec1a3f3747509d5b739d777c9ff4b93b910db1b39130035350ecbb060ae8a3c4"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "5dd8e869fbebed8abe7886fd28f1f192c420d3fefd9f714939c2a501d3a4a1af"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "299d07d605497fd0f4cc5f32a76cf657fda8a84813816fa24c4a05d9f846c3cb"
 metafile = true
 
 [[files]]
