@@ -34,7 +34,7 @@ hash = "c68667480d86c7280e0038302ca7823afbad641df16e64923ba5de179830b021"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "101fbe43a0f33b645895788c2016c83081df6c05b515bb533e9a5ac1f360348e"
+hash = "f1fc93dbd0a01bec7760d47579d75efc5324cd832a355579ea4b1507be00e70a"
 
 [[files]]
 file = "config/cameraoverhaul.json"
@@ -150,7 +150,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "0df69cbdf5284047ba1411120dc11040c45ac85737f55efe72365821d7998129"
+hash = "a353c6e9a5c37f8d55ae364fe633c6ae0bfa6e888e82f087bd17bb4d797951b7"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -290,15 +290,15 @@ hash = "351ff1a1cf7d8fa61755c5004ff7000d5e5969785d69a266dce7e0ce5b8a7c7c"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "07f94905ffef9410ff80befeb1c4fe617db0b953593b937e939ef530d2049feb"
+hash = "9346dbce175ccb27edd2a161246f21cb75afdf4d755cd556a2d69203c3dd4f63"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "59bdc855cdd5cff9c4797c30d9e7caa210a6040e64e0f5a6a24c2c81db899bec"
+hash = "86474f9bf511dcb419e5b1ed649b81a521d6afd6c4908f45397917a1f74d42fb"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b8478fb4f3604892ff0bea26bc922fda8f970b31bc2f6aa04e75854bdbba1bf1"
+hash = "8e5f6a0c2f2d6b28db3dc9d622c07190accc3edf67b1867e416223e89494efcc"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
