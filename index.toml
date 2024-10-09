@@ -18,7 +18,7 @@ hash = "73119d5c52cf776d55d91d1cfcf535af946d6f2e1ab0979ca3f28cb7ad01767a"
 
 [[files]]
 file = "config/badoptimizations.txt"
-hash = "fab93abad903097a4fde0f32f0d52e4d4d782ce9aaeabf8590c187ec693d44df"
+hash = "3aaec8222e5e957858c8931cd1e99b2367107d28954f6dfb7b8426891b95086a"
 
 [[files]]
 file = "config/balm-common.toml"
@@ -150,7 +150,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "a353c6e9a5c37f8d55ae364fe633c6ae0bfa6e888e82f087bd17bb4d797951b7"
+hash = "fa739b674230af58545ed95a5b44aceee5fb7dbee3bb5687782994355293e40f"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -290,15 +290,15 @@ hash = "351ff1a1cf7d8fa61755c5004ff7000d5e5969785d69a266dce7e0ce5b8a7c7c"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "9346dbce175ccb27edd2a161246f21cb75afdf4d755cd556a2d69203c3dd4f63"
+hash = "74d2c685cc86d9bd23809ccf7e4baa7b0ebe3c44b1a1f1bc36c35a41afbcabe8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "86474f9bf511dcb419e5b1ed649b81a521d6afd6c4908f45397917a1f74d42fb"
+hash = "aec666bafc9bf72ab64b60b16356c607c780b50247df7d0e6458b3376fc1c86e"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "8e5f6a0c2f2d6b28db3dc9d622c07190accc3edf67b1867e416223e89494efcc"
+hash = "b557e56764acece195b3d6e8e6b0153e88043b71d2a889afe8071a4f9be44fb2"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -870,7 +870,7 @@ hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
 file = "config/xenon++.toml"
-hash = "c00384d444161944333aa4d3a1485baf988b69bcd8e33cc9dd9eed291285d063"
+hash = "855e6de08d860867b0492f7a7b66a2e883f75cd20f842d481bd6e34ccd0c8a47"
 
 [[files]]
 file = "config/xenon-fingerprint.json"
@@ -1182,6 +1182,11 @@ hash = "c6b19a1c3c87acf8843823e03c9b1abb8e86bcfbc452014bc8f6698ba0351359"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
@@ -1284,6 +1289,11 @@ metafile = true
 [[files]]
 file = "mods/path-to-dirt.pw.toml"
 hash = "b9591c123d0e93501180afee79554462d2caf02e75a4c6668daf40fb3139cd9d"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
 metafile = true
 
 [[files]]
@@ -1417,11 +1427,6 @@ hash = "7600c7a6f0d1cda6e8bc80f75ce4a1326f4c392edd99350136776d90210d7865"
 metafile = true
 
 [[files]]
-file = "mods/treechop.pw.toml"
-hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
 metafile = true
@@ -1444,4 +1449,9 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d0d14c38427cf19c6f1244d4a6a0d05ad1a3d22d9f8b4f0eb083cef7f2ad407d"
 metafile = true
