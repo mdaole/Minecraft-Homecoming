@@ -150,7 +150,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "b9b38e78273b823aa66d0e59c492517728f3710efeae8cbcb5393b415af414b2"
+hash = "0df69cbdf5284047ba1411120dc11040c45ac85737f55efe72365821d7998129"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -163,10 +163,6 @@ hash = "6aa1b4c08dbcae1f893afd75d20ef640fcc5adde042b650b4ae1c2c8637d1555"
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
-
-[[files]]
-file = "config/firstperson.json"
-hash = "9f7dbec90d04ac669ca6a650599445e805d58b0e9e9cef293a0eed98e337f40d"
 
 [[files]]
 file = "config/fml.toml"
@@ -269,10 +265,6 @@ file = "config/recipeessentials.json"
 hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
 
 [[files]]
-file = "config/sapience-common.toml"
-hash = "1d73285e6c84ae976a104e0e5d42f47bf43ee113dfeaf184bab0d8e148fcd5b8"
-
-[[files]]
 file = "config/smoothswapping.json"
 hash = "9b17fbb4cbee44e19cb9050a007e8ae965918e62f6de63f39f8613f12de00233"
 
@@ -302,11 +294,11 @@ hash = "07f94905ffef9410ff80befeb1c4fe617db0b953593b937e939ef530d2049feb"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8723838026091cf5eb1673b3695284f1d058aa6cc9faa15057a8bd87115841bc"
+hash = "59bdc855cdd5cff9c4797c30d9e7caa210a6040e64e0f5a6a24c2c81db899bec"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "4c788244da0b307a07e9423875238b59faf952f01f30a0603acfead81a4300ee"
+hash = "b8478fb4f3604892ff0bea26bc922fda8f970b31bc2f6aa04e75854bdbba1bf1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1342,11 +1334,6 @@ metafile = true
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "6a30514da0ab75c8cf96a2b3be3f4a667d0496cea73bd4ca321b5de09bcc28af"
-metafile = true
-
-[[files]]
-file = "mods/sapience.pw.toml"
-hash = "862bb56ce19ee9de2e004c92156f47bcc4b0f2a5923e54d3fdd0a12433eff850"
 metafile = true
 
 [[files]]
