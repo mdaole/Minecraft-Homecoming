@@ -25,7 +25,10 @@ DIRECTORIES = [
 BLACKLIST_TO_CHECK = [
     "config/fabric",
     "config/sound_physics_remastered",
-    "config/sounds"
+    "config/sounds",
+    "DistantHorizons.toml",
+    "embeddium-fingerprint.json",
+    "xenon-fingerprint.json"
 ]
 
 def main():
