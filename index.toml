@@ -154,7 +154,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "ae9d51bbff35ecf7386703d24b2b330a218f17d013294d140ad4595838b70d3d"
+hash = "7c8a94e6ab62a927e86706cb051de10235899e47bf56169bae87f307d35bc98c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
