@@ -22,16 +22,21 @@ DIRECTORIES = [
     "quests_structures"
 ]
 
+BLACKLIST_TO_CHECK = [
+    "config/fabric"
+]
+
 def main():
     chdir(path.dirname(path.realpath(__file__)))
 
     chdir(path.join("..", ".minecraft"))
     for d in DIRECTORIES:
         for f in Path(d).rglob("**/*"): 
-            packwizpath = path.join("..", "packwiz", f)
-            if f.is_file() and not (path.exists(packwizpath) and (cmp(f, packwizpath) or path.getmtime(packwizpath)>path.getmtime(f))):
-                makedirs(path.dirname(packwizpath), exist_ok=True)
-                copy(f, packwizpath)
+            if not any(blacklist in Path(f).as_posix() for blacklist in BLACKLIST_TO_CHECK):
+                packwizpath = path.join("..", "packwiz", f)
+                if f.is_file() and not (path.exists(packwizpath) and (cmp(f, packwizpath) or path.getmtime(packwizpath)>path.getmtime(f))):
+                    makedirs(path.dirname(packwizpath), exist_ok=True)
+                    copy(f, packwizpath)
 
     chdir(path.dirname(path.realpath(__file__)))
 
