@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "85b3cea8c24eaea877d33265fb78220e055e41bb7a30a804577f732dd1d17652"
+
+[[files]]
 file = "config/HorseBuff.toml"
 hash = "d239c46c41cd0842cbd35ccaadb24d40f3e57879520b5ff0e5e7c0e9ca208e58"
 
@@ -150,7 +154,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "fa739b674230af58545ed95a5b44aceee5fb7dbee3bb5687782994355293e40f"
+hash = "ae9d51bbff35ecf7386703d24b2b330a218f17d013294d140ad4595838b70d3d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -245,6 +249,14 @@ file = "config/pathtodirt-common.toml"
 hash = "a571ccdf8eef228f837e00629fef1203393be107d76a98e228d94ccccf8375cb"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "242a0f58407ecc71ff5e2c6cd2910001c089ee4e6130454c377115e8a8f3c83a"
 
@@ -294,11 +306,11 @@ hash = "74d2c685cc86d9bd23809ccf7e4baa7b0ebe3c44b1a1f1bc36c35a41afbcabe8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "aec666bafc9bf72ab64b60b16356c607c780b50247df7d0e6458b3376fc1c86e"
+hash = "a37c8232359b6df420f8960aafc5bff2a3096f92b70eedee76f9b8aa412b9bf3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b557e56764acece195b3d6e8e6b0153e88043b71d2a889afe8071a4f9be44fb2"
+hash = "3dba47e5a2fbfde961ed6d75e2468f045ec8180492b87c756c9d491d357af620"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -870,7 +882,7 @@ hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
 file = "config/xenon++.toml"
-hash = "855e6de08d860867b0492f7a7b66a2e883f75cd20f842d481bd6e34ccd0c8a47"
+hash = "b9862b4298ace22e87ba8bc2a06bf576f4f7b0b54cbf8778fd4ce751e23347e1"
 
 [[files]]
 file = "config/xenon-fingerprint.json"
@@ -1032,6 +1044,11 @@ hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "8f3d5a8b2a39fe8ac2ce04a864a3c0a3346f7787177f5806674d90423c3a8193"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-crosshair.pw.toml"
 hash = "fe8a0470e9a7245028953e01e00faddff821f70179e9951b7b35b05ea8dcd5c4"
 metafile = true
@@ -1182,11 +1199,6 @@ hash = "c6b19a1c3c87acf8843823e03c9b1abb8e86bcfbc452014bc8f6698ba0351359"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
@@ -1259,11 +1271,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "5dd8e869fbebed8abe7886fd28f1f192c420d3fefd9f714939c2a501d3a4a1af"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
 metafile = true
 
 [[files]]
