@@ -1,6 +1,6 @@
 {
 	"waterSplash": true,
-	"cascades": false,
+	"cascades": true,
 	"waterfallSpray": true,
 	"fireflies": true,
 	"fallingLeaves": true,
