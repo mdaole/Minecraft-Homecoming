@@ -23,7 +23,9 @@ DIRECTORIES = [
 ]
 
 BLACKLIST_TO_CHECK = [
-    "config/fabric"
+    "config/fabric",
+    "config/sound_physics_remastered",
+    "config/sounds"
 ]
 
 def main():
