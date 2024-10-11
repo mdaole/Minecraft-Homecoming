@@ -28,7 +28,9 @@ BLACKLIST_TO_CHECK = [
     "config/sounds",
     "DistantHorizons.toml",
     "embeddium-fingerprint.json",
-    "xenon-fingerprint.json"
+    "xenon-fingerprint.json",
+    "packetfixer.properties",
+    "betterf3.toml"
 ]
 
 def main():
