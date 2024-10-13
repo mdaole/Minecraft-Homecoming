@@ -1,0 +1,13 @@
+name = "Golden Days"
+filename = "golden-days-base-1.21.x-1.11.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "192b098b6c6609b56c801625a1fb9c5ba84d4eba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5570230
+project-id = 384081
