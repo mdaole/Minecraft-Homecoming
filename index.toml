@@ -9,6 +9,10 @@ file = "config/HorseBuff.toml"
 hash = "d239c46c41cd0842cbd35ccaadb24d40f3e57879520b5ff0e5e7c0e9ca208e58"
 
 [[files]]
+file = "config/aiimprovements-common.toml"
+hash = "08a9f7c6f63bd35d49b15fa5bccd8cdf667f21af0c9a8cb2ab5998eb598ee7c3"
+
+[[files]]
 file = "config/animatica-client.toml"
 hash = "e388593c0b2672c03bc5cca51ef79e2b3d17029667934d4e98b8e7eee000b6b1"
 
@@ -74,11 +78,19 @@ hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "a4658d6c7786b2ea141e6f2a1158c9ca4f45185048f5f268ed5b88f90c1a9370"
+hash = "62c9c0aa665e76fa78d2df76f2dd78abfebae5fabe0febdef2117759c2114cad"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "94821d5b58e1e93a8f920e4f16c0c62053fe6af44f1096f6484af5361ab2b8dd"
+hash = "6a65ea776306df6b549de1270a881fa56555499c11b451a4e27e57cdb43824ed"
+
+[[files]]
+file = "config/dsurround/dsurround.json"
+hash = "e03b53ac7769f999835d07f9f5532aa70468743affa6bf4b6f40ee924cbc3a17"
+
+[[files]]
+file = "config/dsurround/soundconfig.json"
+hash = "fa64bd86613903b70b20777bbead61ca0d78312fc2e5c164921dd856e8029ddd"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -103,22 +115,6 @@ hash = "ebef7ec7d0d4a468aa593a89e00aef28aac10de45e017e88ac76b3b60ca9993b"
 [[files]]
 file = "config/effectdescriptions-client.toml"
 hash = "58bf61c4b4dcc84656fd2dbda1b659484e8079eeb53b82bd1bf073723a1312c6"
-
-[[files]]
-file = "config/embeddium++.toml"
-hash = "5c60d571548b304c06254c999a2b476b06f3fc8937881e3efaa3740fb990857b"
-
-[[files]]
-file = "config/embeddium-fingerprint.json"
-hash = "866830cb6b02d2bb6ff523f38e27491f11b542556c5d5d9a9543673b97849b76"
-
-[[files]]
-file = "config/embeddium-mixins.properties"
-hash = "2d0bdca74548caee52c95faeb3ce90413938bad47a8967925fd309dd6014a22a"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
 
 [[files]]
 file = "config/emi.css"
@@ -189,10 +185,6 @@ file = "config/insanelib-common.toml"
 hash = "447692180b909af363777e2632e86181c6837f66a834bf322010885055cd77e1"
 
 [[files]]
-file = "config/leahs-immersive-thunder.toml"
-hash = "a120d448e40dbd9f63f660539b0cefb7ab3519a49a89c88e6be615fdaa363d36"
-
-[[files]]
 file = "config/leaky.json"
 hash = "ee5d331e53643f4fe05a9bd42f30da19efe4b1e9cac68aae76da30635bf4004e"
 
@@ -238,7 +230,7 @@ hash = "5e5546c675aa584681a8ab6d64eecd669cbbe1dc1b79946a48b3b6673073530f"
 
 [[files]]
 file = "config/particular.json5"
-hash = "adc1a0d516023e790c06b6d19884d0fd5a06808f2390ec2f22e6ecebac9bbceb"
+hash = "2ef28c4cf7a2e6d8316f665219b7c8e307931734e02ba1dc05a9ff6f35bb07a0"
 
 [[files]]
 file = "config/pathtodirt-common.toml"
@@ -251,6 +243,46 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/!§bBetterGlint§8§8[§6Galaxy§8].zip"
+hash = "a10a27ffe2e30a110ee99a6e0195c70d8a20b840f7dc75cb949a3eb7416ca88b"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/Compact Font.zip"
+hash = "0f6366d0a9199d08ae449ea2520091c87325683a13cf890af7516763b860f207"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/Less Snow and Rain [Stay True].zip"
+hash = "801e61d01ac83d33b9b2888e018a6a1535554329f8df3ae126d83288f8a21a85"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/Reimagined FA-PATCH[v1.8.1].zip"
+hash = "7ada057a6be8b6a56a5f72c90a8043773b30113180606247e9d3edd571f6310f"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/Vanilla+Experience+[Eggs+GUI+Fire].zip"
+hash = "ae948e4809304fb734c8c53d1393c3d0bdd456041fab2bc9ddf9b2df6d189421"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/xali's Enchanted Books v0.11.zip"
+hash = "2a4dbb613d77c975dd40bd9e460d05626edbe990d8131685264b383e29faa8ce"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/§6Reimagined§0_§6Fixes§0_§8[v1.1]§0.zip"
+hash = "186cc5dbafb2b1bd0d23f3c3d8109627f3919ba848e8ea53b8ce59ad986ea95a"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/§aBushy-Leaves-Addon§8-[v1.1].zip"
+hash = "6ef25b67314cbf5bedbe80d1aed8fea417ad9b0782af355c8af22b4481b03d55"
+
+[[files]]
+file = "config/paxi/resourcepacks_disabled/§aReimagined§0_§8[v1.45][no sounds+cloud+water+night]§0.zip"
+hash = "7fb567433bc1e6de2c3bcdce59b5c998583317bc51f8b367974978a86f89f181"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
@@ -279,14 +311,6 @@ hash = "9b17fbb4cbee44e19cb9050a007e8ae965918e62f6de63f39f8613f12de00233"
 [[files]]
 file = "config/snowundertrees-common.toml"
 hash = "c554d592cbfb283aefeee5de67b89d84c51fdd305712d329b153beb7c9a7068a"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "8d3c03027f7449b0c8ead54ae8f70ee00aa8eb50ef65cf6469c3760b74ac7b3c"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
@@ -358,7 +382,7 @@ hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
 file = "config/xenon++.toml"
-hash = "b9862b4298ace22e87ba8bc2a06bf576f4f7b0b54cbf8778fd4ce751e23347e1"
+hash = "4604437bbe2eedd0da608972ac7b9f1da681fc7930aee2d09dd1e764e4034698"
 
 [[files]]
 file = "config/xenon-fingerprint.json"
@@ -370,15 +394,11 @@ hash = "56fc7646ae541e1879c01047e4700b66a64c79b9148cc1524f6c4a5b7eb76252"
 
 [[files]]
 file = "config/xenon-options.json"
-hash = "f3c9ac5b348d7241481aae3aa08c3c573732f7dfe713156165e62cc5ec6517ac"
+hash = "55a8ba6b900507c74796e0d4d74da611d2a1bdaed1f5c807acabe495e79d8e04"
 
 [[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
-
-[[files]]
-file = "config/zume.json5"
-hash = "19a159138f9b8f8cf015f8cade4bf15e4423b20fd7356800b402f6f14a2cccb0"
 
 [[files]]
 file = "defaultconfigs/horsecombatcontrols-server.toml"
@@ -387,6 +407,11 @@ hash = "61c5bcfdfb46273a7ff64451039bd8838737a1053650fd5bc322e183674068c0"
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "3b87f6113f1304c82ad4efedbf049c239548be6e642acd63d82020504f5b0953"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
@@ -437,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "54a88e01294647b196d27282ac6dba3b420fe8aff23417d6e3bcc78543330df6"
+metafile = true
+
+[[files]]
+file = "mods/better-end-sky.pw.toml"
+hash = "ef2ba75fd7e904270d2f9396cdda74ee34e91821f2a4ec0074ad98371b120385"
 metafile = true
 
 [[files]]
@@ -535,6 +565,11 @@ hash = "2517a20ed69efca449f23a448af7cd8079bf68e47f22fe95cc58cb88a2722d1d"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-surroundings-fabric-edition.pw.toml"
+hash = "b4b05c61cafbf7efeef3aaf32e7b7f0aa0ad69f4ac7c18fb3da062b9d0c4c373"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
 metafile = true
@@ -542,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "ee61279ed1eb4fe2106afcc1dc7bdc36b11fe1d051e5e503d83328c9e9a699df"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "bb1e19411760131d3a45f20805a917a75124c80e73a2083d4c1b1965badb14a4"
 metafile = true
 
 [[files]]
@@ -665,11 +705,6 @@ hash = "891d9f74c6b4efb41a0f0d0d5a97e881ca24ba275627a9f9bb165fb61a729017"
 metafile = true
 
 [[files]]
-file = "mods/immersivethunder.pw.toml"
-hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
-metafile = true
-
-[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "c6b19a1c3c87acf8843823e03c9b1abb8e86bcfbc452014bc8f6698ba0351359"
 metafile = true
@@ -765,6 +800,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "474dd6a81481186c4882544b6a7cfcae4cdad8b6d9098d2942e50c70a04a4100"
+metafile = true
+
+[[files]]
 file = "mods/particular.pw.toml"
 hash = "63a2011c75cdaf07c0a537c1f5c0661b7e5e0471c81625273634f88fed05b9c4"
 metafile = true
@@ -850,11 +890,6 @@ hash = "2f7d48a153fa8e7c97506eec51ef981a613d1fa94691ef00bc73018afb14aaed"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "f809175840d6a626965624c859928a6ac5f1d78f31b990ab3288f752352bb41a"
-metafile = true
-
-[[files]]
 file = "mods/sound.pw.toml"
 hash = "1527a799903efdec06ee7974581c4ebffe6b96b0a3a1ae8a6663fa2e8c0d4195"
 metafile = true
@@ -907,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "7600c7a6f0d1cda6e8bc80f75ce4a1326f4c392edd99350136776d90210d7865"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]
